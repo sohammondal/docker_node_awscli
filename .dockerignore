@@ -1,0 +1,9 @@
+
+# Files ending with .txt
+*.txt
+
+# Files ending with .sh
+*.sh
+
+# Files & folders starting with .
+.*
